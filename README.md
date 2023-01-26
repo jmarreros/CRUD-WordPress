@@ -3,7 +3,7 @@
 Simple example of Create, Read, Update and Delete functionality for a custom table in WordPress
 
 ## Usage
-- Copy crud folder in your child-theme
+- Copy all files in a *crud* folder in your child-theme
 - In the *crud-main.php* file change SLUG_PAGE
 - Create this custom table:
 ```php
